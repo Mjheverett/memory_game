@@ -35,7 +35,7 @@ img {
     height: 100%;
     position: absolute;
     transform-style: preserve-3d;
-    transition: transform 0.8x cubic-bezier(0.175, 0.885, 0.32, 1.275);
+    transition: transform 0.8s cubic-bezier(0.175, 0.885, 0.32, 1.275);
     border-radius: 5px;
     border: solid 3px navy;
     box-shadow: 0 6px 16px rgba(0,0,0,0.15);
